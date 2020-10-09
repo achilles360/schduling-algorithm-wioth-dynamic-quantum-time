@@ -1,2 +1,2 @@
-# schduling-algorithm-wioth-dynamic-quantum-time
+# schduling-algorithm-with-dynamic-quantum-time
 Optimization of the Existing Round robin approach
